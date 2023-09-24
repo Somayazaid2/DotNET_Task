@@ -14,6 +14,7 @@ namespace NET_Task.BAL.AutoMapper
         public DomainProfile()
         {
             CreateMap<ProgramDetails, ProgramDetailsDTO>().ReverseMap();
+            CreateMap<ApplicationForm, ApplicationFormDto>().ReverseMap();
         }
     }
 }

@@ -15,5 +15,6 @@ namespace NET_Task.DAL.Data
         }
 
         public virtual DbSet<ProgramDetails> ProgramDetails { get; set; }
+        public virtual DbSet<ApplicationForm> ApplicationForms { get; set; }
     }
 }

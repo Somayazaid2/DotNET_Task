@@ -31,8 +31,6 @@ namespace NET_Task.Controllers
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
-            //if (await programDetailsRepo.FindRestaurantByAdminID(restaurantDto.ResAdminID))
-            //    return BadRequest("Request is rejected as already registered a restaurant to the system");
             var data = await programDetailsRepo.CreateProgramAsync(programDetailsDTO);
             return Ok(data);
         }

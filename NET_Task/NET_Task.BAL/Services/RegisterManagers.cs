@@ -15,6 +15,7 @@ namespace NET_Task.BAL.Services
         {
             
             services.AddScoped<IProgramDetailsRepo, ProgramDetailsManager>();
+            services.AddScoped<IApplicationFormRepo, ApplicationFormManager>();
             
 
             return services;
