@@ -1,0 +1,15 @@
+D:\DotNET_Task\NET_Task\NET_Task.BAL\bin\Debug\net7.0\NET_Task.BAL.deps.json
+D:\DotNET_Task\NET_Task\NET_Task.BAL\bin\Debug\net7.0\NET_Task.BAL.dll
+D:\DotNET_Task\NET_Task\NET_Task.BAL\bin\Debug\net7.0\NET_Task.BAL.pdb
+D:\DotNET_Task\NET_Task\NET_Task.BAL\bin\Debug\net7.0\NET_Task.DAL.dll
+D:\DotNET_Task\NET_Task\NET_Task.BAL\bin\Debug\net7.0\NET_Task.DAL.pdb
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.csproj.AssemblyReference.cache
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.AssemblyInfoInputs.cache
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.AssemblyInfo.cs
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.csproj.CoreCompileInputs.cache
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.csproj.CopyComplete
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.dll
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\refint\NET_Task.BAL.dll
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\NET_Task.BAL.pdb
+D:\DotNET_Task\NET_Task\NET_Task.BAL\obj\Debug\net7.0\ref\NET_Task.BAL.dll

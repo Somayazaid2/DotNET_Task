@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET_Task", "NET_Task\NET_Task.csproj", "{E35ADF45-D2F9-48FC-86F1-BA1A088B7BE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET_Task.DAL", "NET_Task.DAL\NET_Task.DAL.csproj", "{0C2DBD15-453B-4BCD-B454-D92BE0D899FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET_Task.BAL", "NET_Task.BAL\NET_Task.BAL.csproj", "{7752B9AB-8EF7-464A-BE0D-74939510001B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E35ADF45-D2F9-48FC-86F1-BA1A088B7BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E35ADF45-D2F9-48FC-86F1-BA1A088B7BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35ADF45-D2F9-48FC-86F1-BA1A088B7BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2DBD15-453B-4BCD-B454-D92BE0D899FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2DBD15-453B-4BCD-B454-D92BE0D899FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2DBD15-453B-4BCD-B454-D92BE0D899FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2DBD15-453B-4BCD-B454-D92BE0D899FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7752B9AB-8EF7-464A-BE0D-74939510001B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7752B9AB-8EF7-464A-BE0D-74939510001B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7752B9AB-8EF7-464A-BE0D-74939510001B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7752B9AB-8EF7-464A-BE0D-74939510001B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

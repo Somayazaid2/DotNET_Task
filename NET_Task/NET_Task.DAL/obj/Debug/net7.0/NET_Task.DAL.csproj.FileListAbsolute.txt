@@ -1,0 +1,14 @@
+D:\DotNET_Task\NET_Task\NET_Task.DAL\bin\Debug\net7.0\NET_Task.DAL.deps.json
+D:\DotNET_Task\NET_Task\NET_Task.DAL\bin\Debug\net7.0\NET_Task.DAL.runtimeconfig.json
+D:\DotNET_Task\NET_Task\NET_Task.DAL\bin\Debug\net7.0\NET_Task.DAL.dll
+D:\DotNET_Task\NET_Task\NET_Task.DAL\bin\Debug\net7.0\NET_Task.DAL.pdb
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.csproj.AssemblyReference.cache
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.AssemblyInfoInputs.cache
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.AssemblyInfo.cs
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.csproj.CoreCompileInputs.cache
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.dll
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\refint\NET_Task.DAL.dll
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.pdb
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\NET_Task.DAL.genruntimeconfig.cache
+D:\DotNET_Task\NET_Task\NET_Task.DAL\obj\Debug\net7.0\ref\NET_Task.DAL.dll
